@@ -17,28 +17,12 @@ Another Svelte + TailwindCSS template, but this time it doesn't suck
 ### NPM
 
 ```bash
-git clone https://github.com/non25/svelte-tailwind-template my-new-project
-# or with degit
-npx degit non25/svelte-tailwind-template my-new-project
-cd my-new-project
 npm install
 npm run dev
 
 npm run build
 ```
 
-### Yarn 2
-
-```bash
-git clone https://github.com/non25/svelte-tailwind-template my-new-project
-# or with degit
-npx degit non25/svelte-tailwind-template my-new-project
-cd my-new-project
-yarn install
-yarn dev
-
-yarn build
-```
 
 ## Improve this template
 
